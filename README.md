@@ -13,5 +13,6 @@
   
 ### Titanic Survival
   This Kaggle competition was about creating a model that would determine if the passenger survived or not, using the given data. I used the given training set to train my Decision Trees model, and then used that model on the test, set, obtaining an accuracy score of 74%.
+  [Titanic Survivors](titanic photo.jpeg)
 
 
