@@ -9,7 +9,8 @@
 ## Projects
   
 ### Will Driver Accept the coupon?
-<img src="driver_coupon.jpeg" alt="Driver" width = "300">
+<img src="driver_coupon.jpeg" alt="Driver" width = "200">
+
 I completed this project with a group in my CS105 class . We found the dataset through the UCI repository, cleaned the data, created visualizations to display different aspects of the data, and ran a K Nearest Neighbors Analysis, yeilding a model with 66% accuracy.
   
 ### Titanic Survival
