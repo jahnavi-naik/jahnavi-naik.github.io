@@ -1,8 +1,13 @@
-# jahnavi-naik.github.io
+## Data Scientist
 
-##Data Scientist
+# Education
+- University of California, San Diego Class of 2025
 
-##Project 1
-- asfjlsdfmlakn
-##Project 2
+# Technical Skills
+- C++, Pythin, Excel, SQL, Tableu,
+
+# Project 1
+- asfjlsdfmlak
+  
+# Project 2
 -fbjafbja
