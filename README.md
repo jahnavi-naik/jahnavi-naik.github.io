@@ -4,7 +4,7 @@
 - B.S., Data Science  University of California, San Diego Class of 2025
 
 ## Technical Skills
-- C++, Pythin, Excel, SQL, Tableu,
+- C++, Python, Excel, SQL, Tableu
 
 ## Projects
   
