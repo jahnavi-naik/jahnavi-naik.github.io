@@ -1,10 +1,11 @@
-# Data Scientist
+# Data Science Student
 
 ## Education
 - B.S., Data Science  University of California, San Diego Class of 2025
 
 ## Technical Skills
-- C++, Python, Excel, SQL, Tableu
+- C++, Excel, Python, SQL, Git/Github, R, Tableau, Jupyter Notebook
+
 
 ## Projects
   
