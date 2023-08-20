@@ -24,6 +24,6 @@ This Kaggle competition was about creating a model that would determine if the p
 <img src="disney_plus_logo.jpeg" alt="Disney" width = "200">
 
 For this project, I wanted to practice creating visualizations in Tableu. To do this, I first found a dataset from Kaggle containing statistics about the Disney Plus streaming service. I then cleaned the data and removed any NaNs in python with a Jupityr notebook, and finally uploaded the clean data to Tableu where I created different visualizations about the trends. This is my first project in Tableu, so it really allowed me to play with the different features and familiarize myself with all that it can do. It made me really understand the data and what is was telling me in order to create visualizations.
-[Tableu Link](https://public.tableau.com/app/profile/jahnavi.naik/viz/DisneyPlusDashboard_16914335376510/Dashboard1)
+[Tableau Link](https://public.tableau.com/app/profile/jahnavi.naik/viz/DisneyPlusDashboard_16914335376510/Dashboard1)
 
 
