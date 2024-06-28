@@ -10,7 +10,7 @@
 ## Projects
 
 ### Predicting Recipe Ratings
-
+<img src="food.jpg" alt="Food" width = "200">
 
 This was my final project for my dsc80 class. I was given a raw dataset, taken from food.com, of recipes along with ratings and reviews given by real people. I started by cleaning the raw dataset to keep only relevant columns. I then ran an exploratory data analysis and created visuals to get an understanding of the different variable, and their relationship with others. Next, created a Random Forest Classification mode, and used Grid Search CV to determine the best hyperparameters for the model. After trying many different combinations of variables, I was able to create a model with an F-1 score of 0.91. Learn more about this project [here](https://jahnavi-naik.github.io/recipe-analysis/)
 
