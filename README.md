@@ -8,6 +8,11 @@
 
 
 ## Projects
+
+## Predicting Recipe Ratings
+
+This was my final project for my dsc80 class. I was given a dataset, taken from food.com, of many recipes, along with ratings and reviews given by people. I ran an exploratory data analysis and created visuals to get an understanding of the different variable, and their relationship with others. I then created a Random Forest Classification mode, and used GRid Search CV to determine the best hyperparameters for the model. After many trying different combinations of varibles, I was able to create a model with an F-1 score of 0.91. Learn more about this project [here](https://jahnavi-naik.github.io/recipe-analysis/)
+
   
 ### Will Driver Accept the coupon?
 <img src="driving.jpeg" alt="Driver" width = "200">
